@@ -64,3 +64,8 @@ h2 {
     -webkit-text-stroke-width: 0.2px; -webkit-text-stroke-color: rgb(0, 0, 0);
     font-size: 120%;
 }
+
+p {
+    position: relative;
+    bottom: 50px;
+}
